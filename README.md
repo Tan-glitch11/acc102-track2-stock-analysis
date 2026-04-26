@@ -27,7 +27,7 @@ Analyze monthly stock price and return for finance students and investors.
 3. Install required packages: `pip install pandas matplotlib wrds`.
 
 ## 6. Links
-GitHub Repo:https://github.com/Tan-glitch11/acc102-track2-stock-analysis/edit/main/README.md
+GitHub Repo:https://github.com/Tan-glitch11/acc102-track2-stock-analysis
 Demo Video: [Your Mediasite Video Link Here]
 
 ## 7. Limitations & Improvements
