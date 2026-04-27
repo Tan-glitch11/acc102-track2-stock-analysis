@@ -28,7 +28,7 @@ Analyze monthly stock price and return for finance students and investors.
 
 ## 6. Links
 GitHub Repo:https://github.com/Tan-glitch11/acc102-track2-stock-analysis
-Demo Video: [Your Mediasite Video Link Here]
+Demo Video: https://video.xjtlu.edu.cn/Mediasite/Play/5d66520058d742d990a8195f5b5731661d
 
 ## 7. Limitations & Improvements
 - Limitations: Only one stock is analyzed; sample period is limited.
